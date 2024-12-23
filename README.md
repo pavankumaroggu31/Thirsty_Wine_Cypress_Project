@@ -23,8 +23,8 @@ The test cases cover both functional and usability testing for key features such
 You can view the detailed test cases [here](<https://docs.google.com/spreadsheets/d/1iai-STFT_bzRiCpnqQi4kfpqoStItdKwIlDWoByrfXM/edit?usp=sharing>)
 
 ## Bug Reports :
-During testing, defects were logged with detailed information, including steps to reproduce the issue and its severity. This helps track and resolve problems efficiently.
-You can find the full bug report [here](<https://docs.google.com/spreadsheets/d/1PMxhj7WoD6I2h4bvXkJZ6wcXnz9Uk_KJhsuWvuKdtcY/edit?usp=sharing>).
+During testing, defects were logged with detailed information, including steps to reproduce the issue and its severity.This helps track and resolve problems efficiently.
+You can find full bug report [here](<https://docs.google.com/spreadsheets/d/1PMxhj7WoD6I2h4bvXkJZ6wcXnz9Uk_KJhsuWvuKdtcY/edit?usp=sharing>).
 
 ## Test Summary Report :
 The test summary report gives an overview of the testing process, including what was tested, the results, and any issues found. It helps to understand the overall quality of the Thirsty Wine website.
