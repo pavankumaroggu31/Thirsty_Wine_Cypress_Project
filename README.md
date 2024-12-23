@@ -24,7 +24,7 @@ You can view the detailed test cases [here](<https://docs.google.com/spreadsheet
 
 ## Bug Reports :
 During testing, defects were logged with detailed information, including steps to reproduce the issue and its severity. This helps track and resolve problems efficiently.
-You can find the full bug report [here](<https://docs.google.com/spreadsheets/d/1I3BFk2jcgnKkmbG65urGS1jD0z7Ln5q3/edit?usp=sharing&ouid=110433349378414708907&rtpof=true&sd=true>).
+You can find the full bug report [here](<https://docs.google.com/spreadsheets/d/1PMxhj7WoD6I2h4bvXkJZ6wcXnz9Uk_KJhsuWvuKdtcY/edit?usp=sharing>).
 
 ## Test Summary Report :
 The test summary report gives an overview of the testing process, including what was tested, the results, and any issues found. It helps to understand the overall quality of the Thirsty Wine website.
