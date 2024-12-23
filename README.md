@@ -16,11 +16,11 @@ The Test Plan describes how we will test the Thirsty Wine website, what features
 
 ## Test Scenarios :
 The test scenarios cover various aspects of the Thirsty Wine website, ensuring that key features like user registration, login, and password recovery work as expected. These scenarios guide the testing process to validate both functionality and usability.
-You can view the detailed test scenarios [here](<https://docs.google.com/spreadsheets/d/1_My8rBnCUh2UbHPr5FDTUNRpugGyfCK1/edit?usp=sharing&ouid=110433349378414708907&rtpof=true&sd=true>)
+You can view the detailed test scenarios [here](<https://docs.google.com/spreadsheets/d/11EHqtb8CZ3cPPZfe-UWFzOSjrDRmWgNnHcYHfIqC2OY/edit?usp=sharing>)
 
 ## Test Cases :
 The test cases cover both functional and usability testing for key features such as Forgot Password, Login, and Registration. These test cases ensure that the website works correctly and is easy to use for all users.
-You can view the detailed test cases [here](<https://docs.google.com/spreadsheets/d/11DXNosLJbXA4p_Pbn0GNsLLeHAlaSU8i/edit?usp=sharing&ouid=110433349378414708907&rtpof=true&sd=true>)
+You can view the detailed test cases [here](<https://docs.google.com/spreadsheets/d/1iai-STFT_bzRiCpnqQi4kfpqoStItdKwIlDWoByrfXM/edit?usp=sharing>)
 
 ## Bug Reports :
 During testing, defects were logged with detailed information, including steps to reproduce the issue and its severity. This helps track and resolve problems efficiently.
@@ -28,14 +28,14 @@ You can find the full bug report [here](<https://docs.google.com/spreadsheets/d/
 
 ## Test Summary Report :
 The test summary report gives an overview of the testing process, including what was tested, the results, and any issues found. It helps to understand the overall quality of the Thirsty Wine website.
-You can view the detailed test summary report [here](<https://drive.google.com/file/d/19m0JizVhzZXs3wdgZNx8QvWqsseh2dxg/view?usp=sharing>).
+You can view the detailed test summary report [here](<https://docs.google.com/document/d/1LgA5Ttm40eIcmWKbAgtdkD-pVXXOrEz0oCF_C-edTZU/edit?usp=sharing>).
 
 ## Mind Map :
 The mind map provides a visual overview of the testing process, showing how different features and test scenarios are connected. It helps to understand the structure of the testing plan and guide the testing efforts.
-You can view the detailed mind map [here](<https://drive.google.com/file/d/1LsI6XLTKE6xJEvBw9PsOF3UC6eNOcVUE/view?usp=sharing>).
+You can view the detailed mind map [here](<https://drive.google.com/file/d/13Iz3UMkh7mRoYaMnHWDgrIRbLAwPZ0wn/view?usp=sharing>).
 
 ## Video Walkthrough of the project
-This is my video of the project presentation [here](<https://youtu.be/sjtR9o0qGDU>)
+This is my video of the project presentation [here](<https://www.youtube.com/watch?v=eeuQV-VCghk>)
 
 
 ## Features
