@@ -44,7 +44,7 @@ describe('Thirsty Wine', () => {
         //cy.url().should('not.include', 'about:blank');
     });
 
-    it.skip('Sign Up', () => {
+    it('Sign Up', () => {
         signup.visitURL();
         signup.signUP(); // Go to login page
         signup.validCredentials(); // Verify with valid credentials
@@ -61,7 +61,7 @@ describe('Thirsty Wine', () => {
         //login.blankLogin();
     });
 
-    it.skip('Home Page', () => {
+    it('Home Page', () => {
         // Verify home page
         homepage.headerSection(); 
         homepage.whatWouldYouLikeSection(); 
@@ -71,14 +71,14 @@ describe('Thirsty Wine', () => {
         homepage.bestSellers_GreatDeals_HighlyRated();
     });
 
-    it.skip('Product Page', () => {
+    it('Product Page', () => {
         products.openTheProductPage(); // Open the products
         products.category(); // Verify sortings
         products.price(); // Verify sortings
         products.colors(); // Verify sortings
     });
 
-    it.skip('All Products check on Products Page', () => {
+    it('All Products check on Products Page', () => {
         // Verify products details
         allProducts.validateAllProductDetails();
         const expectedName = 'Chablis Premier Cru, 0,75L';       // product name
@@ -89,7 +89,7 @@ describe('Thirsty Wine', () => {
         allProducts.validateSpecificProductDetails(expectedName, expectedPrice, expectedrating);
     });
 
-    it.skip('Add To Cart', () => {
+    it('Add To Cart', () => {
         cart.CartFunctionality(); // Open the cart
         cart.inreaseItemsFromCart(); // Verify Increase items
         cart.decreaseItemsFromCart();// Verify decrease items
@@ -98,28 +98,28 @@ describe('Thirsty Wine', () => {
     
     });
 
-    it.skip('Add To Wish List', () => {
+    it('Add To Wish List', () => {
         wishList.OpenTheWishList(); // Open the wishlist
         wishList.AddToWishList(); // Add the product
     });
 
-    it.skip('Checkt Out Process', () => {
+    it('Checkt Out Process', () => {
         //checkOut.ValidInputs(); // Verify with valid address
         checkOut.inValidInputs(); // Verify with invalid address
     });
 
-    it.skip('Footer Links',()=>{
+    it('Footer Links',()=>{
         footerlinks.footerLinks(); // Verify footer links
     })
 
-    it.skip('Search bar',()=>{
+    it('Search bar',()=>{
         search.search();
         search.NonExistingProduct();
         search.BlankSearching();
         search.specialCharacters();
     })
 
-    it.skip('Filters', () => {
+    it('Filters', () => {
         filter.openTheProduct();
         filter.Filters();
     });
